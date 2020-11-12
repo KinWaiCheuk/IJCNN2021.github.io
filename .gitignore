@@ -1,0 +1,10 @@
+/codes/trained_weights
+/codes/runs
+/codes/MAPS
+/codes/__pycache__/
+/codes/model/__pycache__/
+
+/codes/results/*
+!/codes/results/Figure1/
+/codes/results/Figure1/*
+!/codes/results/Figure1/Figure1_plot.ipynb

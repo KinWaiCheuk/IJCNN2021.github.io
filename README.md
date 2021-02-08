@@ -1,7 +1,7 @@
-# ICASSP2021
-[Source code](https://github.com/KinWaiCheuk/ICASSP2021.github.io/tree/main/codes) and [supplementary information](https://kinwaicheuk.github.io/ICASSP2021.github.io/) for ICASSP2021.
+# IJCNN2021
+[Source code](https://github.com/KinWaiCheuk/IJCNN2021.github.io/tree/main/codes) and [supplementary information](https://kinwaicheuk.github.io/IJCNN2021.github.io/) for IJCNN2021.
 
-The supplementary information is available at: https://kinwaicheuk.github.io/ICASSP2021.github.io/
+The supplementary information is available at: https://kinwaicheuk.github.io/IJCNN2021.github.io/
 
 The source code is available under the `codes` folder.
 
